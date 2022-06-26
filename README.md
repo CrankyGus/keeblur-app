@@ -14,9 +14,9 @@ Yarn
 
     yarn install
     
-### Dev and Build
 
-#### Dev
+
+#### Dev and Build
 NPM
 
     npm run dev
@@ -25,7 +25,7 @@ Yarn
 
     yarn dev
     
-#### Build
+
 NPM
 
     npm build
