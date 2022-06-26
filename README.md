@@ -16,7 +16,7 @@ Yarn
     
 
 
-#### Dev and Build
+#### Dev
 NPM
 
     npm run dev
@@ -26,13 +26,6 @@ Yarn
     yarn dev
     
 
-NPM
-
-    npm build
-    
-Yarn 
-
-    yarn build
 
 ## Demo
 
